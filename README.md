@@ -4,7 +4,7 @@ convert gif to cv2 compatible frames
 
 
 ## installation 
-
+ Download gifop.py in same folder where u working 
 
 ``` pip install -r requirements.txt``` 
 
