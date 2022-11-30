@@ -2,7 +2,9 @@
 convert gif to cv2 compatible frames 
 
 
-##installation 
+
+## installation 
+
 
 ``` pip install -r requirements.txt``` 
 
@@ -19,3 +21,8 @@ Invert_gifcolor("picture.gif")
 pack_gif(mk,"normal")
 #packs all frames to a gif with name normal
 # mk is list of path of frames 
+
+
+#### TODO :
+
+upload on pypi 
